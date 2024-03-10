@@ -1,12 +1,12 @@
-### Oiii! Eu sou Morgado Andrade mas prefiro que me chamem pelo meu second name of registry that is Andrade.👋 
+### Hello! I am Morgado Andrade de Melo nut I prefer that call me by my second name of registry, that is Andrade.👋 
 
-- 🔭 Atualmente estou aperfeiçoando minhas skills e subskills em Desenvolvimento Web✨
-- 🌱 Atualmente estou aprendendo Base dados com php e mysql e acredito que estou me saindo muito bem, e já estou subcarregado, me sinto capacitado
+- 🔭 Atualmente estou aperfeiçoando minhas skills em Desenvolvimento Web✨
+- 🌱 Atualmente estou aprendendo Base dados e aperfeiçoando-me no Framework Laravel
 - 🤔 Estou procurando alguém para ser meu best Friend em Web 👯 basicamente formar uma equipe!
 - 💬 Pergunte-me sobre tudo útil que quiseres saber
-- 📫 Chegue até mim através de meu portfólio de projects fronts tem todas minhas informaçóes
-- 😄 I have too, um portfolio de projects back-end actuais, link: http://praticagui.free.nf/
-  ⚡ 
+- 📫 Chegue até mim através de meu portfólio de projects, lá tem todas minhas informaçóes
+- 😄 O meu portfolio de projects back-end actuais, link: http://praticagui.free.nf/
+- ⚡ Me chame para sua empresa ou projeto, garanto a minha disciplina e determinação!
   
   <br><br>
  <div>
@@ -19,4 +19,5 @@
     <img align="center" alt="andrade_php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="andrade_mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="andrade_php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+   <img align="center" alt="andrade_php" height="30" width="40" src="https://www.flaticon.com/free-icon/eng_5309804?term=english&page=1&position=3&origin=tag&related_id=5309804">
 </div>
