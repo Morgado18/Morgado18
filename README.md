@@ -18,6 +18,5 @@
     <img align="center" alt="andrade_angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
     <img align="center" alt="andrade_php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="andrade_mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="andrade_php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-   <img align="center" alt="andrade_php" height="30" width="40" src="https://www.flaticon.com/free-icon/eng_5309804?term=english&page=1&position=3&origin=tag&related_id=5309804">
+    <img align="center" alt="andrade_php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"><img align="center" alt="andrade_php" height="30" width="40" src="https://images.app.goo.gl/nrQuJ5UhFUArVvGX7">
 </div>
