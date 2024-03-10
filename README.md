@@ -1,4 +1,4 @@
-### Hello! I am Morgado Andrade de Melo nut I prefer that call me by my second name of registry, that is Andrade.👋 
+### Hello! I am Morgado Andrade de Melo but I prefer that call me by my second name of registry, that is Andrade.👋 
 
 - 🔭 Atualmente estou aperfeiçoando minhas skills em Desenvolvimento Web✨
 - 🌱 Atualmente estou aprendendo Base dados e aperfeiçoando-me no Framework Laravel
