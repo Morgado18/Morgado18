@@ -1,12 +1,12 @@
 ### Hello! I'm Morgado Andrade de Melo but I prefer to be called by my second registered name, which is Andrade.👋👋 
 
-- 🔭 Atualmente estou aperfeiçoando minhas skills em Desenvolvimento Web✨
-- 🌱 Atualmente estou aprendendo Base dados e aperfeiçoando-me no Framework Laravel
-- 🤔 Estou procurando alguém para ser meu best Friend em Web 👯 basicamente formar uma equipe!
-- 💬 Pergunte-me sobre tudo útil que quiseres saber
-- 📫 Chegue até mim através de meu portfólio de projects, lá tem todas minhas informaçóes
-- 😄 O meu portfolio de projects back-end actuais, link: http://praticagui.free.nf/
-- ⚡ Me chame para sua empresa ou projeto, garanto a minha disciplina e determinação!
+- 🔭I'm currently improving my skills in Web Development and Mobile Devlopment✨
+<!--- 🌱 Atualmente estou aprendendo Base dados e aperfeiçoando-me no Framework Laravel -->
+- 🤔 I am committed to expanding my knowledge and learning new technologies, such as C#, Python and the PostgreSQL database.
+- 💬 Ask me about anything useful you want to know
+- 📫 Reach me through my project portfolio, there you have all my information
+- 😄 My project portfolio, link: https://shre.ink/gWVF
+- ⚡  Call me for your company or project, I guarantee my discipline and determination!
   
   <br><br>
  <div>
