@@ -20,7 +20,10 @@
       <img align="center" alt="andrade_node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="andrade_php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="andrade_mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="andrade_laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+   
+    <img align="center" alt="andrade_mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    
+   <img align="center" alt="andrade_laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
     <img align="center" alt="andrade_ajax" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*_RQU7TYtrWBNqXWAnthU0Q.png">
 </div>
   <br><br>
