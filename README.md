@@ -24,6 +24,7 @@
     <img align="center" alt="andrade_ajax" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*_RQU7TYtrWBNqXWAnthU0Q.png">
     <img align="center" alt="andrade_csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="andrade_arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <img align="center" alt="andrade_arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
   <br><br>
 
