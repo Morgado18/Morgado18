@@ -23,8 +23,9 @@
    <img align="center" alt="andrade_laravel" height="110" width="120" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg">
     <img align="center" alt="andrade_ajax" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*_RQU7TYtrWBNqXWAnthU0Q.png">
     <img align="center" alt="andrade_csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="andrade_arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <img align="center" alt="andrade_ccna" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
     <img align="center" alt="andrade_arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+   <img align="center" alt="andrade_ccna" height="30" width="40" src="https://www.tascmanagement.com/wp-content/uploads/2016/03/LOGO_Cisco_CCNA.png">
 </div>
   <br><br>
 
