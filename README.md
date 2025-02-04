@@ -25,7 +25,7 @@
     <img align="center" alt="andrade_csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="andrade_ccna" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
     <img align="center" alt="andrade_arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="center" alt="andrade_ccna" height="30" width="40" src="https://www.tascmanagement.com/wp-content/uploads/2016/03/LOGO_Cisco_CCNA.png">
+   <img align="center" alt="andrade_ccna" height="50" width="40" src="https://www.tascmanagement.com/wp-content/uploads/2016/03/LOGO_Cisco_CCNA.png">
 </div>
   <br><br>
 
