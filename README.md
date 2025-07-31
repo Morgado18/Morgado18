@@ -35,6 +35,6 @@
   <h2>CONTACTOS:</h2>
   <ul>
     <li>Email: guiandrademelo108@gmail.com</li>
-    <li>Contacto: 930 811 316 / 951 648 105</li>
+    <li>Contacto: +244-951-648-105</li>
   </ul>
 
