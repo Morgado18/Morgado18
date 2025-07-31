@@ -27,7 +27,7 @@
     <img align="center" alt="andrade_arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
    <img align="center" alt="andrade_ccna" height="40" width="40" src="https://www.tascmanagement.com/wp-content/uploads/2016/03/LOGO_Cisco_CCNA.png">
    <img align="center" alt="andrade_py" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="andrade_odoo" height="30" width="40" src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png">
+    <img align="center" alt="andrade_odoo" height="50" width="50" src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png">
 </div>
   <br><br>
 
